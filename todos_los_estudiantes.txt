@@ -1,0 +1,4 @@
+mary,23
+luis,40
+margrita,50
+carlitos,10
